@@ -1,0 +1,12 @@
+This is the original license for the AWE core and the VITO/VITOCUDA tools (see http://036d6ff.netsolhost.com/vitocuda3.html for details)
+
+NOTICE AND DISCLAIMER
+
+No use of this software is authorized except under this NOTICE AND DISCLAIMER. Downloading, use, copying, modification, and/or distribution of this software in its original or modified form implies your acceptance of this NOTICE and DISCLAIMER.
+
+Permission to use, copy, modify and distribute this software and its documentation, for any purpose and without fee is hereby granted, provided that this permission notice appears prominently in supporting documentation and must be viewed prior to use, copying, modification or distribution. You are responsible for any modifications to the software which you make and notice that the software has been modified must be appended to this notice prior to further use, copying, modification or distribution.
+
+This software is provided AS IS without warranty of any kind, including without limitation the warranties that the software is non-infringing, merchantable, or fit for a particular purpose, including high risk activities. The entire risk as to the quality and performance of the software is born by you. Should the software prove defective in any respect, you and not the developers, nor any parties associated with the developers, assume the entire cost of any service and repair.
+
+This software may be subject to the Export Control Laws of the United States of America. It is your responsibility to determine the applicable laws and regulations and comply with them. 
+
